@@ -1,4 +1,3 @@
 ## portfolio
 
-- Amaro Porano 
-- Jaha Chay
+- Here is a demo of 
